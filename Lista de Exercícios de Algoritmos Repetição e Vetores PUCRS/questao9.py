@@ -1,4 +1,4 @@
-qntd_vezes = 3
+qntd_vezes = 50
 maior_numero = None
 menor_numero = None
 
